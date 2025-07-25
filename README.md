@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning<br><br>- Advanced Data Analysis using Python & SQL<br><br>- Predictive Modeling (CLV, Churn, Forecasting)<br><br>- Building Dashboards (Power BI, Excel, Plotly)<br><br>- Storytelling with Data — because insights ≠ impact if no one understands them<br><br>- Git, GitHub, and version control (finally not scared of the terminal)<br><br>🎯 Goals<br><br>- Land my first role as a Data Analyst in 2025<br><br>- Build a portfolio of real-world projects that solve actual business problems<br><br>- Explore Machine Learning & AI in business analytics<br><br>- One day: build an AI-powered product that changes the world<br><br>🎲 Fun fact<br><br>- I love watching Sci-FI Movies</p>
+<p align="left">📚 I'm currently learning<br><br>- Advanced Data Analysis using Python & SQL<br><br>- Predictive Modeling <br><br>- Building Dashboards <br><br>- Storytelling with Data — because insights ≠ impact if no one understands them<br><br>- Git, GitHub, and version control <br><br>🎯 Goals<br><br>- Land my first role as a Data Analyst in 2025<br><br>- Build a portfolio of real-world projects that solve actual business problems<br><br>- Explore Machine Learning & AI in business analytics<br><br>- One day: build an AI-powered product that changes the world<br><br>🎲 Fun fact<br><br>- I love watching Sci-FI Movies</p>
 
 ###
 
