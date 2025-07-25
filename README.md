@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_color=black&right_color=maroon"  />
-</div>
-
 ###
 
 <h1 align="left">Hey 👋 What's up?</h1>
